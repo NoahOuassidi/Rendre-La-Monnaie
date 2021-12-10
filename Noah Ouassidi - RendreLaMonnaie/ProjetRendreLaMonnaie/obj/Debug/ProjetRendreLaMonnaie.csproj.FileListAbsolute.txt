@@ -1,0 +1,13 @@
+G:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\obj\Debug\ProjetRendreLaMonnaie.csprojAssemblyReference.cache
+G:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\bin\Debug\ProjetRendreLaMonnaie.exe.config
+G:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\bin\Debug\ProjetRendreLaMonnaie.exe
+G:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\bin\Debug\ProjetRendreLaMonnaie.pdb
+G:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\obj\Debug\ProjetRendreLaMonnaie.exe
+G:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\obj\Debug\ProjetRendreLaMonnaie.pdb
+D:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\obj\Debug\ProjetRendreLaMonnaie.csproj.AssemblyReference.cache
+D:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\obj\Debug\ProjetRendreLaMonnaie.csproj.CoreCompileInputs.cache
+D:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\obj\Debug\ProjetRendreLaMonnaie.exe
+D:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\obj\Debug\ProjetRendreLaMonnaie.pdb
+D:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\bin\Debug\ProjetRendreLaMonnaie.exe.config
+D:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\bin\Debug\ProjetRendreLaMonnaie.exe
+D:\Cours\Bloc 1\Programmation\ProjetRendreLaMonnaie\ProjetRendreLaMonnaie\bin\Debug\ProjetRendreLaMonnaie.pdb
